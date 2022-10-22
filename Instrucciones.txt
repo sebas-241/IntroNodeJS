@@ -1,0 +1,8 @@
+* Crear proyecto de node js (Proyecto para consultar el clima) npm (maven de js)
+* Configurar Repo
+* Subir el repo al usuario de cada uno
+* Registrarnos en una API
+* Obtener Api key
+* Instalar dependencias (Para poder hacer Peticion web)
+* Congiurar objeto en js para la peticion
+* Segun resultado presentamos temperatura o el error
