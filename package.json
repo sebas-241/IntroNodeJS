@@ -1,0 +1,22 @@
+{
+  "name": "intronode_2",
+  "version": "0.1.0",
+  "description": "Esta es la descripcion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebas-39/IntroNodeJS.git"
+  },
+  "author": "sebasgonzalrodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebas-39/IntroNodeJS/issues"
+  },
+  "homepage": "https://github.com/sebas-39/IntroNodeJS#readme",
+  "dependencies": {
+    "axios": "^1.1.3"
+  }
+}
